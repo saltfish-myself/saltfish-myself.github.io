@@ -1,0 +1,60 @@
+/* 全局样式 */
+body {
+    font-family: “Courier New”, monospace;
+    background-color: #F5FFFA;
+}
+
+/* 页面布局样式 */
+header {
+    background-color: #fff;
+    color: #000;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #ccffcc;
+    border-radius: 5px;
+}
+
+nav {
+    background-color: #99cc99;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #336633;
+    text-decoration: none;
+    padding: 5px;
+    border: 1px solid #336633;
+    border-radius: 5px;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #F5FFFA; /* 淡灰色 */
+    border: 1px solid #ccffcc;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #fff;
+    color: #000;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ccffcc;
+    border-radius: 5px;
+}
+
+/* 其他样式根据需要自行添加 */
