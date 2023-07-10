@@ -57,15 +57,7 @@ footer {
     border-radius: 5px;
 }
 
+body {
+    cursor: url(https://blog-static.cnblogs.com/files/blogs/772971/%E6%90%9C%E7%8B%97%E6%88%AA%E5%9B%BE20221023190204.ico), auto;
+}
 /* 其他样式根据需要自行添加 */
-/*a:hover {*/
-/*    color: #99cc99;*/
-/*}*/
-
-/*a:focus {*/
-/*    color: #99cc99;*/
-/*}*/
-
-/*a:visited {*/
-/*    color: grey; !* 恢复到原来的颜色 *!*/
-/*}*/
