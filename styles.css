@@ -3,7 +3,9 @@ body {
     font-family: “Courier New”, monospace;
     background-color: #F5FFFA;
 }
-
+.grid-paper {
+    background-image: url('https://i.wpic.cc/g/2023/07/10/64ab95746b74a.png'); /* 将路径修改为您网格图片的实际路径 */
+}
 /* 页面布局样式 */
 header {
     background-color: #fff;
